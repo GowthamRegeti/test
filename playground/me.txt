@@ -1,0 +1,6 @@
+{{#user}}
+Name: Gowtham
+Skills: HTML, CSS, JS, Django, Machine Learning, Deep Learning
+Email: gowthamregeti@gmail.com
+{{/user}}
+
